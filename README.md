@@ -18,9 +18,9 @@ This Python script organizes files in a specified directory based on their types
    ```bash
    python file_organizer.py
 
-4. **Enter Source Directories:**
+4. **Enter Source Directories**
 
-5. **Organize Files:**
+5. **Organize Files**
 
 ## Types Supported
 - Images (jpg, jpeg, png, gif, bmp, tiff)
