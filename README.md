@@ -22,6 +22,14 @@ This Python script organizes files in a specified directory based on their types
 
 5. **Organize Files**
 
+
+Here is a demonstration of the usage:
+
+
+https://github.com/lucia31257/fileOrganizer/assets/73963008/0f602ced-3642-4af2-b7e6-dd8051a9d415
+
+
+
 ## Types Supported
 - Images (jpg, jpeg, png, gif, bmp, tiff)
 - Documents (doc, docx, pdf)
